@@ -1,2 +1,2 @@
-# JoKenPO2
+# JoKenPO
  
